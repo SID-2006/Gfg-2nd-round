@@ -60,6 +60,7 @@ function FeaturedBooks() {
   );
 }
 
+//made without using AI
 function Footer() {
   return (
     <footer className="footer">
@@ -88,3 +89,4 @@ function App() {
 
 
 ReactDOM.render(<App />, document.getElementById("root"));
+
